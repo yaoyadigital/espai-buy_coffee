@@ -1,25 +1,22 @@
 {
-    [
-    "👑 Midas (Top Donor)",
-    "☕ Midas",
-    "✨ Thank you for this month's support!",
-]
-
-[
-    "👑 Dwi Puspa (Top Donor)",
-    "☕ Dwi Puspa",
-    "✨ Thank you for this month's support!",
-]
-
-[
-    "👑 Azka (Top Donor)",
-    "☕ Azka AZFX",
-    "✨ Thank you for this month's support!",
-]
-
-[
-    "👑 Felix (Top Donor)",
-    "☕ Felix AZFX",
+  "id": [
+    "👑 Sultan Andara (Donatur Top)",
+    "☕ Budi Santoso",
+    "✨ Terima kasih untuk dukungan bulan ini!"
+  ],
+  "en": [
+    "👑 Sultan Andara (Top Donor)",
+    "☕ Budi Santoso",
     "✨ Thank you for this month's support!"
-]
+  ],
+  "cn": [
+    "👑 Sultan Andara (顶级捐赠者)",
+    "☕ Budi Santoso",
+    "✨ 感谢本月的支持！"
+  ],
+  "vn": [
+    "👑 Sultan Andara (Nhà tài trợ hàng đầu)",
+    "☕ Budi Santoso",
+    "✨ Cảm ơn sự hỗ trợ của bạn trong tháng này!"
+  ]
 }
